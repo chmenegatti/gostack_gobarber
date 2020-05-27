@@ -14,8 +14,8 @@ export default {
 
   defaults: {
     from: {
-      email: 'cesar@corsiarquitetura.com.br',
-      name: 'Eng. Cesar - Corsi Arquitetura',
+      email: 'contato@cesarmenegatti.com',
+      name: 'Eng. Cesar Menegatti',
     },
   },
 } as IMailConfig;
